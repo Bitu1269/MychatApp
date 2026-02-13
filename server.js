@@ -41,3 +41,5 @@ connectDB().then(() => {
     server.listen(PORT, () => console.log(`Server running on port : http://localhost:${PORT}`));
 })
     
+
+// command to crate JWT token = node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"

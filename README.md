@@ -9,7 +9,8 @@ The main goal of this project is to learn and implement real-time communication,
 🚀 Technologies Used
 🔹 Node.js
 
-<img width="656" height="416" alt="Screenshot 2026-02-12 at 4 19 20 PM" src="https://github.com/user-attachments/assets/77b84b38-28fd-4a05-b73d-a533b6c45098" />
+MY CHAT APP
+<img width="2906" height="1588" alt="image" src="https://github.com/user-attachments/assets/e3751873-ec38-4c5d-b99a-0115b8c52ab2" />
 
 
 Node.js is used to build the backend server.
